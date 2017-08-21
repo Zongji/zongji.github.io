@@ -1,0 +1,8 @@
+title: Zongji.github.io
+description: My Personal Resume
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
