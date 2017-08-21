@@ -7,3 +7,5 @@ paginate: 5
 
 gems:
   - jekyll-mentions
+  - jekyll-paginate
+
