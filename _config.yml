@@ -3,6 +3,7 @@ description: 技术随笔文章随时记录学习的内容
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
+paginate: 5
 
 gems:
   - jekyll-mentions
